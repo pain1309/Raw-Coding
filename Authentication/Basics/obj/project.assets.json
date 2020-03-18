@@ -6044,11 +6044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj",
+      "projectUniqueName": "D:\\IS4\\code\\Raw-Coding\\Authentication\\Basics\\Basics.csproj",
       "projectName": "Basics",
-      "projectPath": "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj",
+      "projectPath": "D:\\IS4\\code\\Raw-Coding\\Authentication\\Basics\\Basics.csproj",
       "packagesPath": "C:\\Users\\anhvv\\.nuget\\packages\\",
-      "outputPath": "D:\\IS4\\code\\Authentication\\Basics\\obj\\",
+      "outputPath": "D:\\IS4\\code\\Raw-Coding\\Authentication\\Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
