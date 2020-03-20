@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj": {}
+    "E:\\IS4\\Raw-Coding\\Authentication\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj": {
+    "E:\\IS4\\Raw-Coding\\Authentication\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj",
+        "projectUniqueName": "E:\\IS4\\Raw-Coding\\Authentication\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "D:\\IS4\\code\\Authentication\\Basics\\Basics.csproj",
-        "packagesPath": "C:\\Users\\anhvv\\.nuget\\packages\\",
-        "outputPath": "D:\\IS4\\code\\Authentication\\Basics\\obj\\",
+        "projectPath": "E:\\IS4\\Raw-Coding\\Authentication\\Basics\\Basics.csproj",
+        "packagesPath": "C:\\Users\\vvanh2\\.nuget\\packages\\",
+        "outputPath": "E:\\IS4\\Raw-Coding\\Authentication\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\anhvv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vvanh2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
