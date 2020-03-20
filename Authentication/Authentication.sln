@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic", "basic", "{6B059A31
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oauth", "oauth", "{DDC7600B-4EE4-49D8-812E-8E318698CFDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{3ED23E70-5D83-4EF5-8D53-B1C636155516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{3ED23E70-5D83-4EF5-8D53-B1C636155516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B95FA830-D566-4B97-AEF2-09EC8269EFD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{3ED23E70-5D83-4EF5-8D53-B1C636155516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED23E70-5D83-4EF5-8D53-B1C636155516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED23E70-5D83-4EF5-8D53-B1C636155516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95FA830-D566-4B97-AEF2-09EC8269EFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95FA830-D566-4B97-AEF2-09EC8269EFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95FA830-D566-4B97-AEF2-09EC8269EFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95FA830-D566-4B97-AEF2-09EC8269EFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B90E7C80-49C2-4346-8560-78C362C3AF71} = {6B059A31-54AA-4B6B-A9C5-F28120F93D8A}
 		{3ED23E70-5D83-4EF5-8D53-B1C636155516} = {DDC7600B-4EE4-49D8-812E-8E318698CFDB}
+		{B95FA830-D566-4B97-AEF2-09EC8269EFD0} = {DDC7600B-4EE4-49D8-812E-8E318698CFDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA619A32-AAC3-4F75-AA8A-E936B3E70E53}
